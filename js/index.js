@@ -10,7 +10,7 @@ import {
 
   closePreview,
 
-} from "https://sarbanandabhikkhu.github.io/sql-demo/lib/utils.js";
+} from "./../lib/utils.js";
 
 document.addEventListener("DOMContentLoaded", (event) => {
 
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   const xhr = new XMLHttpRequest();
 
-  xhr.open("GET", "https://sarbanandabhikkhu.github.io/sql-demo/data/ebooks.db", true);
+  xhr.open("GET", "./../data/ebooks.db", true);
 
   xhr.responseType = "arraybuffer";
 

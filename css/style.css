@@ -86,7 +86,7 @@ body {
 
   justify-content: center;
 
-  background: url("./../assets/pdf.svg");
+  background: url("https://sarbanandabhikkhu.github.io/sql-demo/assets/pdf.svg");
 
   background-color: white;
 
@@ -204,7 +204,7 @@ body {
 
   background: #eee;
 
-  background: url("./../assets/pdf.svg") no-repeat;
+  background: url("https://sarbanandabhikkhu.github.io/sql-demo/assets/pdf.svg") no-repeat;
 
   background-color: white;
 
